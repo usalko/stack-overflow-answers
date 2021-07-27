@@ -31,3 +31,6 @@ print(tri.simplices)
 
 # Response:
 # Sorry for my five cents, but if you think about memory optimization. Perhaps this library https://github.com/nschloe/meshio brings more ideas.
+
+# Additional links:
+# http://www.enseignement.polytechnique.fr/informatique/INF562/Slides/MeshDataStructures.pdf
